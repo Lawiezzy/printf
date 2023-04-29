@@ -1,5 +1,6 @@
 # printf
 Alx group project by:
+<<<<<<< HEAD
 * Lawal Aremu   
 * Peter Bullas
 # Introduction
@@ -160,3 +161,8 @@ Function That Returns The Amount Of Indetifiers.
 # Authors
 - Lawal Aremu @Lawizzy01
 - Peter Bullas @Fognandi
+=======
+* Lawal Aremu
+* 
+* [Peter Bullas](https://github.com/fognandi)
+>>>>>>> 9f76184a64544429ef9def7178c853ed848fb339
