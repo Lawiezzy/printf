@@ -2,7 +2,6 @@
 Alx group project by:
 * [Lawal Aremu](https://github.com/lawiezzy)
 * [Peter Bullas](https://github.com/fognandi)
->>>>>>> 9b41d23df6de55893096f6e30ad50ccc57b21251
 # Introduction
 Rebuild of the standard printf function in C. Our project required a function capable of printing with the %d, %c, %s, and %% specifiers to standard output. printf returns the number of characters printed (excluding the null byte at the end of strings). We were not asked to handle flag characters, field width, precision, or length.
 # Supported Format
