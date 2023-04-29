@@ -1,7 +1,7 @@
 # printf
 Alx group project by:
-* Lawal Aremu   
-* Peter Bullas
+* [Lawal Aremu](https://github.com/lawiezzy)
+* [Peter Bullas](https://github.com/fognandi)
 # Introduction
 Rebuild of the standard printf function in C. Our project required a function capable of printing with the %d, %c, %s, and %% specifiers to standard output. printf returns the number of characters printed (excluding the null byte at the end of strings). We were not asked to handle flag characters, field width, precision, or length.
 # Supported Format
@@ -158,5 +158,5 @@ Function That Prints An Integer Begining With 0 And u.
 Function That Returns The Amount Of Indetifiers.
 
 # Authors
-- Lawal Aremu @Lawizzy01
-- Peter Bullas @Fognandi
+- [Lawal Aremu](https://github.com/lawiezzy)
+- [Peter Bullas](https://github.com/fognandi)
