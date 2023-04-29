@@ -1,5 +1,5 @@
 .\" Manpage for _printf.
-.TH _printf 3 "22 April 2022" "1.0" "Program Manual for _printf"
+.TH _printf 3 "29 April 2024" "1.0" "Program Manual for _printf"
 .SH NAME
  _printf - formatted output conversion and print data.
 .SH SYNOPSIS
@@ -123,4 +123,4 @@ int main(void)
 .SH SEE ALSO
 .R printf(3)
 .SH AUTHORS
-Written by \fBLawal Aremu\fR and \fBObam Olohu\fR.
+Written by \fBLawal Aremu\fR and \fBPeter Bullas\fR.
